@@ -1,5 +1,10 @@
 export default [
   {
+    "countryName": "Various Locations",
+    "countryShortCode": "VL",
+    "regions": []
+  },
+  {
     "countryName": "Afghanistan",
     "countryShortCode": "AF",
     "regions": [
